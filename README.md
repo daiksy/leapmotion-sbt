@@ -2,7 +2,7 @@
 
 ---
 
-This is a template to leapmotino sdk in sbt
+This is a template to leapmotion sdk in sbt
 
 #Usage
 
